@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 2,
+  "projectId": "project-1784099335722-uwri9t",
+  "name": "PropiMobile",
+  "nodes": [
+    {
+      "id": "page-1784107269546-2",
+      "type": "page",
+      "title": "HomeScreen",
+      "label": "jsakcb",
+      "description": "sac",
+      "status": "working",
+      "position": {
+        "x": -635.0999999999999,
+        "y": 64.19999999999999
+      },
+      "childrenIds": [
+        "element-1784107631776-4"
+      ],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "page-feature-1784107269546-1",
+          "title": "jsakcb",
+          "description": "sac",
+          "createdAt": "2026-07-15T09:21:09.546Z",
+          "versionNumber": 1,
+          "status": "archived"
+        },
+        {
+          "featureId": "feature-page-1784107269546-2-1784107601206",
+          "title": "HomeScreen",
+          "description": "sac",
+          "createdAt": "2026-07-15T09:26:41.207Z",
+          "versionNumber": 2,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "page-feature-1784107269546-1",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {},
+      "createdAt": "2026-07-15T09:21:09.546Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com",
+      "updatedByUserId": null,
+      "updatedByName": null,
+      "updatedByEmail": null,
+      "updatedAt": null
+    },
+    {
+      "id": "element-1784107631776-4",
+      "type": "element",
+      "title": "Hero Section",
+      "label": "Hero Section",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": -344.5,
+        "y": -184.8
+      },
+      "parentId": "page-1784107269546-2",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [
+        "tab-1784107691666-6",
+        "tab-1784107761823-8",
+        "tab-1784107818082-10",
+        "tab-1784107839192-12",
+        "tab-1784107869033-14"
+      ],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "element-feature-1784107631776-3",
+          "title": "Hero Section",
+          "description": "element created",
+          "createdAt": "2026-07-15T09:27:11.776Z",
+          "versionNumber": 1,
+          "status": "archived"
+        },
+        {
+          "featureId": "feature-element-1784107631776-4-1784107646905",
+          "title": "Hero Section",
+          "description": "Component type changed to Section",
+          "createdAt": "2026-07-15T09:27:26.905Z",
+          "versionNumber": 2,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "feature-element-1784107631776-4-1784107646905",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {
+        "componentType": "Section"
+      },
+      "createdAt": "2026-07-15T09:27:11.776Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com",
+      "updatedByUserId": null,
+      "updatedByName": null,
+      "updatedByEmail": null,
+      "updatedAt": null
+    },
+    {
+      "id": "tab-1784107691666-6",
+      "type": "tab",
+      "title": "Smart Search",
+      "label": "Smart Search",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": -120.69999999999999,
+        "y": -423.6
+      },
+      "parentId": "element-1784107631776-4",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "tab-feature-1784107691666-5",
+          "title": "Smart Search",
+          "description": "tab created",
+          "createdAt": "2026-07-15T09:28:11.666Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "tab-feature-1784107691666-5",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {},
+      "createdAt": "2026-07-15T09:28:11.666Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com",
+      "updatedByUserId": null,
+      "updatedByName": null,
+      "updatedByEmail": null,
+      "updatedAt": null
+    },
+    {
+      "id": "tab-1784107761823-8",
+      "type": "tab",
+      "title": "MatchMaker",
+      "label": "MatchMaker",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": -114.69999999999999,
+        "y": -241.8
+      },
+      "parentId": "element-1784107631776-4",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "tab-feature-1784107761823-7",
+          "title": "MatchMaker",
+          "description": "tab created",
+          "createdAt": "2026-07-15T09:29:21.823Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "tab-feature-1784107761823-7",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {},
+      "createdAt": "2026-07-15T09:29:21.823Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com",
+      "updatedByUserId": null,
+      "updatedByName": null,
+      "updatedByEmail": null,
+      "updatedAt": null
+    },
+    {
+      "id": "tab-1784107818082-10",
+      "type": "tab",
+      "title": "For Sale",
+      "label": "For Sale",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": -108.09999999999998,
+        "y": -76.20000000000002
+      },
+      "parentId": "element-1784107631776-4",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "tab-feature-1784107818082-9",
+          "title": "For Sale",
+          "description": "tab created",
+          "createdAt": "2026-07-15T09:30:18.082Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "tab-feature-1784107818082-9",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {},
+      "createdAt": "2026-07-15T09:30:18.082Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com",
+      "updatedByUserId": null,
+      "updatedByName": null,
+      "updatedByEmail": null,
+      "updatedAt": null
+    },
+    {
+      "id": "tab-1784107839192-12",
+      "type": "tab",
+      "title": "To Rent",
+      "label": "To Rent",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": -109.9,
+        "y": 91.19999999999996
+      },
+      "parentId": "element-1784107631776-4",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "tab-feature-1784107839192-11",
+          "title": "To Rent",
+          "description": "tab created",
+          "createdAt": "2026-07-15T09:30:39.192Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "tab-feature-1784107839192-11",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {},
+      "createdAt": "2026-07-15T09:30:39.192Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com",
+      "updatedByUserId": null,
+      "updatedByName": null,
+      "updatedByEmail": null,
+      "updatedAt": null
+    },
+    {
+      "id": "tab-1784107869033-14",
+      "type": "tab",
+      "title": "Development",
+      "label": "Development",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": -112.29999999999998,
+        "y": 252.52499999999998
+      },
+      "parentId": "element-1784107631776-4",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "tab-feature-1784107869033-13",
+          "title": "Development",
+          "description": "tab created",
+          "createdAt": "2026-07-15T09:31:09.033Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "tab-feature-1784107869033-13",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {},
+      "createdAt": "2026-07-15T09:31:09.033Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com",
+      "updatedByUserId": null,
+      "updatedByName": null,
+      "updatedByEmail": null,
+      "updatedAt": null
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-page-1784107269546-2-element-1784107631776-4",
+      "source": "page-1784107269546-2",
+      "target": "element-1784107631776-4",
+      "type": "structure"
+    },
+    {
+      "id": "edge-element-1784107631776-4-tab-1784107691666-6",
+      "source": "element-1784107631776-4",
+      "target": "tab-1784107691666-6",
+      "type": "structure"
+    },
+    {
+      "id": "edge-element-1784107631776-4-tab-1784107761823-8",
+      "source": "element-1784107631776-4",
+      "target": "tab-1784107761823-8",
+      "type": "structure"
+    },
+    {
+      "id": "edge-element-1784107631776-4-tab-1784107818082-10",
+      "source": "element-1784107631776-4",
+      "target": "tab-1784107818082-10",
+      "type": "structure"
+    },
+    {
+      "id": "edge-element-1784107631776-4-tab-1784107839192-12",
+      "source": "element-1784107631776-4",
+      "target": "tab-1784107839192-12",
+      "type": "structure"
+    },
+    {
+      "id": "edge-element-1784107631776-4-tab-1784107869033-14",
+      "source": "element-1784107631776-4",
+      "target": "tab-1784107869033-14",
+      "type": "structure"
+    }
+  ],
+  "issues": [],
+  "issueHistory": [],
+  "updatedAt": "2026-07-15T09:32:16.609Z"
+}
