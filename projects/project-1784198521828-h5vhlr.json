@@ -1,0 +1,1305 @@
+{
+  "schemaVersion": 2,
+  "projectId": "project-1784198521828-h5vhlr",
+  "name": "PropiNewVersion",
+  "nodes": [
+    {
+      "id": "page-1784107269546-2",
+      "type": "page",
+      "title": "HomeScreen",
+      "label": "jsakcb",
+      "description": "sac",
+      "status": "working",
+      "position": {
+        "x": -944.3313910215513,
+        "y": 784.1523538334422
+      },
+      "childrenIds": [
+        "element-1784107631776-4",
+        "element-1784108514661-16",
+        "element-1784111202871-6",
+        "element-1784111853303-20"
+      ],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "page-feature-1784107269546-1",
+          "title": "jsakcb",
+          "description": "sac",
+          "createdAt": "2026-07-15T09:21:09.546Z",
+          "versionNumber": 1,
+          "status": "archived"
+        },
+        {
+          "featureId": "feature-page-1784107269546-2-1784107601206",
+          "title": "HomeScreen",
+          "description": "sac",
+          "createdAt": "2026-07-15T09:26:41.207Z",
+          "versionNumber": 2,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "page-feature-1784107269546-1",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {},
+      "createdAt": "2026-07-15T09:21:09.546Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "element-1784107631776-4",
+      "type": "element",
+      "title": "Hero Section",
+      "label": "Hero Section",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": -658.9139343079349,
+        "y": 170.40276902896426
+      },
+      "parentId": "page-1784107269546-2",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [
+        "tab-1784107691666-6",
+        "tab-1784107761823-8",
+        "tab-1784107818082-10",
+        "tab-1784107839192-12",
+        "tab-1784107869033-14"
+      ],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "element-feature-1784107631776-3",
+          "title": "Hero Section",
+          "description": "element created",
+          "createdAt": "2026-07-15T09:27:11.776Z",
+          "versionNumber": 1,
+          "status": "archived"
+        },
+        {
+          "featureId": "feature-element-1784107631776-4-1784107646905",
+          "title": "Hero Section",
+          "description": "Component type changed to Section",
+          "createdAt": "2026-07-15T09:27:26.905Z",
+          "versionNumber": 2,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "feature-element-1784107631776-4-1784107646905",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {
+        "componentType": "Section"
+      },
+      "createdAt": "2026-07-15T09:27:11.776Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "tab-1784107691666-6",
+      "type": "tab",
+      "title": "Smart Search",
+      "label": "Smart Search",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": -372.2311474463479,
+        "y": -239.2004763653464
+      },
+      "parentId": "element-1784107631776-4",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "tab-feature-1784107691666-5",
+          "title": "Smart Search",
+          "description": "tab created",
+          "createdAt": "2026-07-15T09:28:11.666Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "tab-feature-1784107691666-5",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {},
+      "createdAt": "2026-07-15T09:28:11.666Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "tab-1784107761823-8",
+      "type": "tab",
+      "title": "MatchMaker",
+      "label": "MatchMaker",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": -410.6486094270472,
+        "y": 17.889769350420764
+      },
+      "parentId": "element-1784107631776-4",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "tab-feature-1784107761823-7",
+          "title": "MatchMaker",
+          "description": "tab created",
+          "createdAt": "2026-07-15T09:29:21.823Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "tab-feature-1784107761823-7",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {},
+      "createdAt": "2026-07-15T09:29:21.823Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "tab-1784107818082-10",
+      "type": "tab",
+      "title": "For Sale",
+      "label": "For Sale",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": -399.698334005262,
+        "y": 179.1261535505214
+      },
+      "parentId": "element-1784107631776-4",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "tab-feature-1784107818082-9",
+          "title": "For Sale",
+          "description": "tab created",
+          "createdAt": "2026-07-15T09:30:18.082Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "tab-feature-1784107818082-9",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {},
+      "createdAt": "2026-07-15T09:30:18.082Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "tab-1784107839192-12",
+      "type": "tab",
+      "title": "To Rent",
+      "label": "To Rent",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": -489.3953924830754,
+        "y": 322.89728395667964
+      },
+      "parentId": "element-1784107631776-4",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "tab-feature-1784107839192-11",
+          "title": "To Rent",
+          "description": "tab created",
+          "createdAt": "2026-07-15T09:30:39.192Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "tab-feature-1784107839192-11",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {},
+      "createdAt": "2026-07-15T09:30:39.192Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "tab-1784107869033-14",
+      "type": "tab",
+      "title": "Development",
+      "label": "Development",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": -528.1325133106416,
+        "y": 480.9629124848691
+      },
+      "parentId": "element-1784107631776-4",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "tab-feature-1784107869033-13",
+          "title": "Development",
+          "description": "tab created",
+          "createdAt": "2026-07-15T09:31:09.033Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "tab-feature-1784107869033-13",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {},
+      "createdAt": "2026-07-15T09:31:09.033Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "element-1784108514661-16",
+      "type": "element",
+      "title": "Search Filter",
+      "label": "Search Filter",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": 104.4425187873119,
+        "y": 560.9915261875091
+      },
+      "parentId": "page-1784107269546-2",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [
+        "element-1784110504597-2"
+      ],
+      "mediaUrls": [],
+      "issueIds": [
+        "issue-1784108643683",
+        "issue-1784108870268"
+      ],
+      "featureHistory": [
+        {
+          "featureId": "element-feature-1784108514661-15",
+          "title": "Search Filter",
+          "description": "element created",
+          "createdAt": "2026-07-15T09:41:54.661Z",
+          "versionNumber": 1,
+          "status": "archived"
+        },
+        {
+          "featureId": "feature-element-1784108514661-16-1784108531324",
+          "title": "Search Filter",
+          "description": "Component type changed to Card",
+          "createdAt": "2026-07-15T09:42:11.324Z",
+          "versionNumber": 2,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "feature-element-1784108514661-16-1784108531324",
+      "issueHistory": [
+        {
+          "issueId": "issue-1784108643683",
+          "parentIssueId": null,
+          "title": "Filter Needs to be implemented",
+          "description": "{/* ── MAIN SEARCH BAR ── */}\n          <motion.div key={category} initial={{ opacity: 0, scale: 0.98 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 0.2 }}\n            className=\"bg-white dark:bg-gray-900 rounded-2xl shadow-2xl border border-white/20 overflow-visible relative\">\n\n            <div className=\"flex flex-col sm:flex-row\">\n              {/* Location input */}\n              <div className=\"flex-1 relative\">\n                <div className=\"flex items-center px-5 py-4 gap-3\">\n                  <MapPin size={20} className={cc.text + \" flex-shrink-0\"} />\n                  <div className=\"flex-1\">\n                    <label className=\"block text-[10px] font-bold text-gray-400 dark:text-gray-500 uppercase tracking-widest mb-0.5\">Location</label>\n                    <input type=\"text\" value={location} onChange={e => { setLocation(e.target.value); setShowSuggestions(true); }}\n                      onFocus={() => setShowSuggestions(true)} onBlur={() => setTimeout(() => setShowSuggestions(false), 180)}\n                      placeholder={category === \"student\" ? \"e.g. UCT, Wits, UP campus area...\" : \"Suburb, city or province...\"}\n                      className=\"w-full outline-none text-gray-900 dark:text-white bg-transparent text-sm font-semibold placeholder-gray-400 dark:placeholder-gray-500\" />\n                  </div>\n                  {location && (\n                    <button onClick={() => setLocation(\"\")} className=\"text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 flex-shrink-0\">\n                      <X size={16} />\n                    </button>\n                  )}\n                </div>\n\n                {/* Suggestions dropdown */}\n                <AnimatePresence>\n                  {showSuggestions && (location.length > 0 ? filteredSuggestions.length > 0 : recentSearches.length > 0) && (\n                    <motion.div initial={{ opacity: 0, y: -8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -8 }}\n                      className=\"absolute left-0 right-0 top-full mt-2 bg-white dark:bg-gray-900 rounded-2xl shadow-2xl border border-gray-100 dark:border-gray-800 overflow-hidden z-50\">\n                      <div className=\"p-2\">\n                        <p className=\"text-[10px] font-bold uppercase tracking-widest text-gray-400 dark:text-gray-500 px-3 py-1.5\">\n                          {location.length > 0 ? \"Suggestions\" : \"Recent Searches\"}\n                        </p>\n                        {(location.length > 0 ? filteredSuggestions : recentSearches).map((s, i) => (\n                          <button key={i} onMouseDown={() => { setLocation(s); setShowSuggestions(false); }}\n                            className=\"w-full flex items-center gap-3 px-3 py-2.5 rounded-xl hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors text-left\">\n                            {location.length > 0\n                              ? <MapPin size={14} className=\"text-blue-500 flex-shrink-0\" />\n                              : <Clock size={14} className=\"text-gray-400 flex-shrink-0\" />}\n                            <span className=\"text-sm text-gray-700 dark:text-gray-300 font-medium\">{s}</span>\n                          </button>\n                        ))}\n                      </div>\n                    </motion.div>\n                  )}\n                </AnimatePresence>\n              </div>\n\n              {/* Divider */}\n              <div className=\"hidden sm:block w-px bg-gray-100 dark:bg-gray-800 my-3\" />\n\n              {/* Property type selector */}\n              <div className=\"flex items-center px-5 py-4 gap-3 border-t sm:border-t-0 border-gray-100 dark:border-gray-800\">\n                <Building2 size={18} className=\"text-gray-400 dark:text-gray-500 flex-shrink-0\" />\n                <div>\n                  <label className=\"block text-[10px] font-bold text-gray-400 dark:text-gray-500 uppercase tracking-widest mb-0.5\">Type</label>\n                  <select value={propType} onChange={e => setPropType(e.target.value)}\n                    className=\"outline-none text-gray-900 dark:text-white bg-transparent text-sm font-semibold cursor-pointer pr-4\">\n                    {PROPERTY_TYPES[category].map(t => <option key={t}>{t}</option>)}\n                  </select>\n                </div>\n              </div>\n\n              {/* Price */}\n              <div className=\"hidden md:flex items-center px-5 py-4 gap-3 border-t sm:border-t-0 border-l border-gray-100 dark:border-gray-800\">\n                <DollarSign size={18} className=\"text-gray-400 dark:text-gray-500 flex-shrink-0\" />\n                <div>\n                  <label className=\"block text-[10px] font-bold text-gray-400 dark:text-gray-500 uppercase tracking-widest mb-0.5\">Price</label>\n                  <select value={pricePreset} onChange={e => setPricePreset(e.target.value)}\n                    className=\"outline-none text-gray-900 dark:text-white bg-transparent text-sm font-semibold cursor-pointer pr-4\">\n                    <option value=\"\">Any price</option>\n                    {PRICE_RANGES[category].map(p => <option key={p.label} value={p.label}>{p.label}</option>)}\n                  </select>\n                </div>\n              </div>\n\n              {/* Beds (sale/rent only) */}\n              {(category === \"sale\" || category === \"rent\") && (\n                <div className=\"hidden lg:flex items-center px-5 py-4 gap-3 border-l border-gray-100 dark:border-gray-800\">\n                  <Bed size={18} className=\"text-gray-400 dark:text-gray-500 flex-shrink-0\" />\n                  <div>\n                    <label className=\"block text-[10px] font-bold text-gray-400 dark:text-gray-500 uppercase tracking-widest mb-0.5\">Beds</label>\n                    <select value={beds} onChange={e => setBeds(e.target.value)}\n                      className=\"outline-none text-gray-900 dark:text-white bg-transparent text-sm font-semibold cursor-pointer pr-4\">\n                      {[\"any\",\"1+\",\"2+\",\"3+\",\"4+\",\"5+\"].map(b => <option key={b} value={b}>{b === \"any\" ? \"Any\" : b}</option>)}\n                    </select>\n                  </div>\n                </div>\n              )}\n\n              {/* Search + Filter buttons */}\n              <div className=\"flex border-t sm:border-t-0 sm:border-l border-gray-100 dark:border-gray-800\">\n                <button onClick={() => setShowAdvanced(!showAdvanced)}\n                  className={`flex items-center gap-2 px-4 py-4 text-sm font-semibold transition-all relative ${\n                    showAdvanced || activeFilterCount > 0\n                      ? \"text-blue-600 dark:text-blue-400 bg-blue-50 dark:bg-blue-900/20\"\n                      : \"text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200\"\n                  }`}>\n                  <SlidersHorizontal size={18} />\n                  <span className=\"hidden sm:inline\">Filters</span>\n                  {activeFilterCount > 0 && (\n                    <span className=\"absolute top-2 right-2 w-4 h-4 bg-blue-600 text-white text-[10px] font-black rounded-full flex items-center justify-center\">{activeFilterCount}</span>\n                  )}\n                </button>\n                <button onClick={handleSearch}\n                  className={`flex items-center justify-center gap-2 px-6 py-4 bg-gradient-to-r ${cc.btn} text-white font-bold rounded-r-2xl hover:shadow-xl transition-all text-sm min-w-[100px]`}>\n                  <Search size={18} /> Search\n                </button>\n              </div>\n            </div>\n\n            {/* ── ADVANCED FILTERS PANEL ── */}\n            <AnimatePresence>\n              {showAdvanced && (\n                <motion.div initial={{ opacity: 0, height: 0 }} animate={{ opacity: 1, height: \"auto\" }} exit={{ opacity: 0, height: 0 }}\n                  className=\"border-t border-gray-100 dark:border-gray-800 overflow-hidden\">\n                  <div className=\"p-5 space-y-5\">\n\n                    {/* Price range inputs */}\n                    <div className=\"grid grid-cols-2 sm:grid-cols-4 gap-3\">\n                      <div>\n                        <label className=\"block text-[10px] font-bold text-gray-500 dark:text-gray-400 uppercase tracking-widest mb-2\">Min Price</label>\n                        <input type=\"text\" value={minPrice} onChange={e => setMinPrice(e.target.value)} placeholder=\"e.g. 2000000\"\n                          className=\"w-full px-3 py-2.5 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl text-sm text-gray-900 dark:text-white focus:border-blue-500 dark:focus:border-blue-400 focus:outline-none\" />\n                      </div>\n                      <div>\n                        <label className=\"block text-[10px] font-bold text-gray-500 dark:text-gray-400 uppercase tracking-widest mb-2\">Max Price</label>\n                        <input type=\"text\" value={maxPrice} onChange={e => setMaxPrice(e.target.value)} placeholder=\"e.g. 5000000\"\n                          className=\"w-full px-3 py-2.5 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl text-sm text-gray-900 dark:text-white focus:border-blue-500 dark:focus:border-blue-400 focus:outline-none\" />\n                      </div>\n                      <div>\n                        <label className=\"block text-[10px] font-bold text-gray-500 dark:text-gray-400 uppercase tracking-widest mb-2\">Bathrooms</label>\n                        <select value={baths} onChange={e => setBaths(e.target.value)} className={SELECT}>\n                          {[\"any\",\"1+\",\"2+\",\"3+\",\"4+\"].map(b => <option key={b} value={b}>{b === \"any\" ? \"Any\" : b}</option>)}\n                        </select>\n                      </div>\n                      <div>\n                        <label className=\"block text-[10px] font-bold text-gray-500 dark:text-gray-400 uppercase tracking-widest mb-2\">Parking</label>\n                        <select className={SELECT}>\n                          {[\"Any\",\"1+\",\"2+\",\"3+\"].map(p => <option key={p}>{p}</option>)}\n                        </select>\n                      </div>\n                    </div>\n\n                    {/* Quick price chips */}\n                    <div>\n                      <p className=\"text-[10px] font-bold text-gray-500 dark:text-gray-400 uppercase tracking-widest mb-2\">Quick Price</p>\n                      <div className=\"flex flex-wrap gap-2\">\n                        {PRICE_RANGES[category].map(p => (\n                          <button key={p.label} onClick={() => { setPricePreset(pricePreset === p.label ? \"\" : p.label); setMinPrice(p.min); setMaxPrice(p.max); }}\n                            className={`${CHIP_BASE} ${pricePreset === p.label ? CHIP_ON : CHIP_OFF}`}>\n                            {pricePreset === p.label && <Check size={11} strokeWidth={3} />}\n                            {p.label}\n                          </button>\n                        ))}\n                      </div>\n                    </div>\n\n                    {/* Features */}\n                    <div>\n                      <p className=\"text-[10px] font-bold text-gray-500 dark:text-gray-400 uppercase tracking-widest mb-2\">Must-Have Features</p>\n                      <div className=\"flex flex-wrap gap-2\">\n                        {FEATURE_OPTIONS.map(f => (\n                          <button key={f} onClick={() => toggleFeature(f)}\n                            className={`${CHIP_BASE} ${features.includes(f) ? CHIP_ON : CHIP_OFF}`}>\n                            {features.includes(f) && <Check size={11} strokeWidth={3} />}\n                            {f}\n                          </button>\n                        ))}\n                      </div>\n                    </div>\n\n                    {/* Actions */}\n                    <div className=\"flex items-center justify-between pt-3 border-t border-gray-100 dark:border-gray-800\">\n                      <button onClick={clearAll} className=\"flex items-center gap-1.5 text-sm text-red-500 font-bold hover:text-red-700 transition-colors\">\n                        <RefreshCw size={14} /> Clear all filters\n                      </button>\n                      <button onClick={handleSearch}\n                        className={`flex items-center gap-2 px-6 py-2.5 bg-gradient-to-r ${cc.btn} text-white font-bold rounded-xl hover:shadow-lg transition-all text-sm`}>\n                        <Search size={15} /> Apply & Search\n                      </button>\n                    </div>\n                  </div>\n                </motion.div>\n              )}\n            </AnimatePresence>\n          </motion.div>\n\n          {/* Active filter chips */}\n          {activeFilterCount > 0 && (\n            <div className=\"flex flex-wrap gap-2 mt-4 justify-center\">\n              {propType !== \"All Types\" && <span className={`${CHIP_BASE} bg-white/15 backdrop-blur-sm text-white border-white/25`}><Building2 size={11} />{propType}<button onClick={() => setPropType(\"All Types\")} className=\"ml-1 hover:text-red-300\"><X size={11} /></button></span>}\n              {pricePreset && <span className={`${CHIP_BASE} bg-white/15 backdrop-blur-sm text-white border-white/25`}><DollarSign size={11} />{pricePreset}<button onClick={() => { setPricePreset(\"\"); setMinPrice(\"\"); setMaxPrice(\"\"); }} className=\"ml-1 hover:text-red-300\"><X size={11} /></button></span>}\n              {beds !== \"any\" && <span className={`${CHIP_BASE} bg-white/15 backdrop-blur-sm text-white border-white/25`}><Bed size={11} />{beds} beds<button onClick={() => setBeds(\"any\")} className=\"ml-1 hover:text-red-300\"><X size={11} /></button></span>}\n              {features.map(f => <span key={f} className={`${CHIP_BASE} bg-white/15 backdrop-blur-sm text-white border-white/25`}><Check size={11} strokeWidth={3} />{f}<button onClick={() => toggleFeature(f)} className=\"ml-1 hover:text-red-300\"><X size={11} /></button></span>)}\n            </div>\n          )}\n        </div>\n      </div>\n\n      {/* ══ RESULTS / DISCOVERY AREA ══ */}\n      <div className=\"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8\">\n\n        {!hasSearched ? (\n          /* ── DISCOVERY MODE ── */\n          <div className=\"space-y-12\">",
+          "severity": "yellow",
+          "status": "open",
+          "createdAt": "2026-07-15T09:44:03.683Z",
+          "resolvedAt": null,
+          "versionNumber": 1,
+          "history": [
+            {
+              "message": "Issue created: \"Filter Needs to be implemented\"",
+              "status": "attempt",
+              "createdAt": "2026-07-15T09:44:03.683Z"
+            }
+          ]
+        },
+        {
+          "issueId": "issue-1784108870268",
+          "parentIssueId": null,
+          "title": "The Positioning of this Filter",
+          "description": "Make sure the filter is below the Hero Section",
+          "severity": "red",
+          "status": "open",
+          "createdAt": "2026-07-15T09:47:50.268Z",
+          "resolvedAt": null,
+          "versionNumber": 1,
+          "history": [
+            {
+              "message": "Issue created: \"The Positioning of this Filter\"",
+              "status": "attempt",
+              "createdAt": "2026-07-15T09:47:50.269Z"
+            }
+          ]
+        }
+      ],
+      "activeIssues": [
+        "issue-1784108643683",
+        "issue-1784108870268"
+      ],
+      "resolvedIssues": [],
+      "metadata": {
+        "componentType": "Card"
+      },
+      "createdAt": "2026-07-15T09:41:54.661Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "element-1784110504597-2",
+      "type": "element",
+      "title": "Apply & Search",
+      "label": "Apply & Search",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": 628.1711416181278,
+        "y": 554.3773928812227
+      },
+      "parentId": "element-1784108514661-16",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "element-feature-1784110504597-1",
+          "title": "Apply & Search",
+          "description": "element created",
+          "createdAt": "2026-07-15T10:15:04.597Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "element-feature-1784110504597-1",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {
+        "componentType": "Button"
+      },
+      "createdAt": "2026-07-15T10:15:04.597Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "element-1784111202871-6",
+      "type": "element",
+      "title": "Footer Section",
+      "label": "Footer Section",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": -661.403267506196,
+        "y": 1211.1757488463893
+      },
+      "parentId": "page-1784107269546-2",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [
+        "element-1784111255707-8",
+        "element-1784111395679-10"
+      ],
+      "mediaUrls": [],
+      "issueIds": [
+        "issue-1784111760308"
+      ],
+      "featureHistory": [
+        {
+          "featureId": "element-feature-1784111202871-5",
+          "title": "Footer Section",
+          "description": "element created",
+          "createdAt": "2026-07-15T10:26:42.871Z",
+          "versionNumber": 1,
+          "status": "archived"
+        },
+        {
+          "featureId": "feature-element-1784111202871-6-1784111214127",
+          "title": "Footer Section",
+          "description": "Component type changed to Section",
+          "createdAt": "2026-07-15T10:26:54.127Z",
+          "versionNumber": 2,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "feature-element-1784111202871-6-1784111214127",
+      "issueHistory": [
+        {
+          "issueId": "issue-1784111760308",
+          "parentIssueId": null,
+          "title": "Footer Positioning",
+          "description": "Put this at the end of the UI",
+          "severity": "red",
+          "status": "open",
+          "createdAt": "2026-07-15T10:36:00.308Z",
+          "resolvedAt": null,
+          "versionNumber": 1,
+          "history": [
+            {
+              "message": "Issue created: \"Footer Positioning\"",
+              "status": "attempt",
+              "createdAt": "2026-07-15T10:36:00.308Z"
+            }
+          ]
+        }
+      ],
+      "activeIssues": [
+        "issue-1784111760308"
+      ],
+      "resolvedIssues": [],
+      "metadata": {
+        "componentType": "Section"
+      },
+      "createdAt": "2026-07-15T10:26:42.871Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "element-1784111255707-8",
+      "type": "element",
+      "title": "Search",
+      "label": "Home",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": -389.78434017755706,
+        "y": 1131.6867545679877
+      },
+      "parentId": "element-1784111202871-6",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "element-feature-1784111255707-7",
+          "title": "Home",
+          "description": "element created",
+          "createdAt": "2026-07-15T10:27:35.707Z",
+          "versionNumber": 1,
+          "status": "archived"
+        },
+        {
+          "featureId": "feature-element-1784111255707-8-1784111345043",
+          "title": "Search",
+          "description": "Title updated",
+          "createdAt": "2026-07-15T10:29:05.043Z",
+          "versionNumber": 2,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "element-feature-1784111255707-7",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {
+        "componentType": "Button"
+      },
+      "createdAt": "2026-07-15T10:27:35.707Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "element-1784111395679-10",
+      "type": "element",
+      "title": "Dashboard",
+      "label": "Dashboard",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": -516.1956026934836,
+        "y": 1459.3167911423334
+      },
+      "parentId": "element-1784111202871-6",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "element-feature-1784111395679-9",
+          "title": "Dashboard",
+          "description": "element created",
+          "createdAt": "2026-07-15T10:29:55.679Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "element-feature-1784111395679-9",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {
+        "componentType": "Button"
+      },
+      "createdAt": "2026-07-15T10:29:55.679Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "element-1784111853303-20",
+      "type": "element",
+      "title": "Applications Card",
+      "label": "Applications Card",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": -40.71127785282695,
+        "y": 881.3038456029894
+      },
+      "parentId": "page-1784107269546-2",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [
+        "element-1784111874724-22",
+        "element-1784111900540-24",
+        "element-1784111920778-26",
+        "element-1784111934327-28",
+        "element-1784111957937-30",
+        "element-1784111978472-32"
+      ],
+      "mediaUrls": [],
+      "issueIds": [
+        "issue-1784112092223"
+      ],
+      "featureHistory": [
+        {
+          "featureId": "element-feature-1784111853303-19",
+          "title": "Applications Card",
+          "description": "element created",
+          "createdAt": "2026-07-15T10:37:33.303Z",
+          "versionNumber": 1,
+          "status": "archived"
+        },
+        {
+          "featureId": "feature-element-1784111853303-20-1784111860703",
+          "title": "Applications Card",
+          "description": "Component type changed to Card",
+          "createdAt": "2026-07-15T10:37:40.703Z",
+          "versionNumber": 2,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "feature-element-1784111853303-20-1784111860703",
+      "issueHistory": [
+        {
+          "issueId": "issue-1784112092223",
+          "parentIssueId": null,
+          "title": "Positioning and Structure",
+          "description": "Make sure that the card is below the search-filter card and the buttons are arrangedin 3 columns 2 rows",
+          "severity": "yellow",
+          "status": "open",
+          "createdAt": "2026-07-15T10:41:32.223Z",
+          "resolvedAt": null,
+          "versionNumber": 1,
+          "history": [
+            {
+              "message": "Issue created: \"Positioning and Structure\"",
+              "status": "attempt",
+              "createdAt": "2026-07-15T10:41:32.224Z"
+            }
+          ]
+        }
+      ],
+      "activeIssues": [
+        "issue-1784112092223"
+      ],
+      "resolvedIssues": [],
+      "metadata": {
+        "componentType": "Card"
+      },
+      "createdAt": "2026-07-15T10:37:33.303Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "element-1784111874724-22",
+      "type": "element",
+      "title": "Buy",
+      "label": "Buy",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": 186.14700404017714,
+        "y": 690.8138764671869
+      },
+      "parentId": "element-1784111853303-20",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "element-feature-1784111874724-21",
+          "title": "Buy",
+          "description": "element created",
+          "createdAt": "2026-07-15T10:37:54.724Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "element-feature-1784111874724-21",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {
+        "componentType": "Button"
+      },
+      "createdAt": "2026-07-15T10:37:54.724Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "element-1784111900540-24",
+      "type": "element",
+      "title": "Rent",
+      "label": "Rent",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": 193.3808003364735,
+        "y": 816.7012221461994
+      },
+      "parentId": "element-1784111853303-20",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "element-feature-1784111900540-23",
+          "title": "Rent",
+          "description": "element created",
+          "createdAt": "2026-07-15T10:38:20.540Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "element-feature-1784111900540-23",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {
+        "componentType": "Button"
+      },
+      "createdAt": "2026-07-15T10:38:20.540Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "element-1784111920778-26",
+      "type": "element",
+      "title": "Develop",
+      "label": "Develop",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": 194.1845554805064,
+        "y": 962.6824464260346
+      },
+      "parentId": "element-1784111853303-20",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "element-feature-1784111920778-25",
+          "title": "Develop",
+          "description": "element created",
+          "createdAt": "2026-07-15T10:38:40.778Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "element-feature-1784111920778-25",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {
+        "componentType": "Button"
+      },
+      "createdAt": "2026-07-15T10:38:40.778Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "element-1784111934327-28",
+      "type": "element",
+      "title": "Student",
+      "label": "Student",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": 203.82961720890148,
+        "y": 1094.9998332573105
+      },
+      "parentId": "element-1784111853303-20",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "element-feature-1784111934327-27",
+          "title": "Student",
+          "description": "element created",
+          "createdAt": "2026-07-15T10:38:54.327Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "element-feature-1784111934327-27",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {
+        "componentType": "Button"
+      },
+      "createdAt": "2026-07-15T10:38:54.327Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "element-1784111957937-30",
+      "type": "element",
+      "title": "Agencies",
+      "label": "Agencies",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": 188.55826947227592,
+        "y": 1224.9059546564872
+      },
+      "parentId": "element-1784111853303-20",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "element-feature-1784111957937-29",
+          "title": "Agencies",
+          "description": "element created",
+          "createdAt": "2026-07-15T10:39:17.937Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "element-feature-1784111957937-29",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {
+        "componentType": "Button"
+      },
+      "createdAt": "2026-07-15T10:39:17.937Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "element-1784111978472-32",
+      "type": "element",
+      "title": "Smart",
+      "label": "Smart",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": 193.3808003364735,
+        "y": 1374.9059546564872
+      },
+      "parentId": "element-1784111853303-20",
+      "parentPageId": "page-1784107269546-2",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "element-feature-1784111978472-31",
+          "title": "Smart",
+          "description": "element created",
+          "createdAt": "2026-07-15T10:39:38.472Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "element-feature-1784111978472-31",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {
+        "componentType": "Button"
+      },
+      "createdAt": "2026-07-15T10:39:38.472Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "page-1784110805457-2",
+      "type": "page",
+      "title": "search-results",
+      "label": "search-results",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": 268.37400662727305,
+        "y": 223.9465253869899
+      },
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "page-feature-1784110805457-1",
+          "title": "search-results",
+          "description": "page created",
+          "createdAt": "2026-07-15T10:20:05.457Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "page-feature-1784110805457-1",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {},
+      "createdAt": "2026-07-15T10:20:05.457Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "page-1784111566396-14",
+      "type": "page",
+      "title": "Login",
+      "label": "Login",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": -301.87757201646093,
+        "y": 1550.9773662551438
+      },
+      "childrenIds": [
+        "element-1784111636260-18"
+      ],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "page-feature-1784111566396-13",
+          "title": "Login",
+          "description": "page created",
+          "createdAt": "2026-07-15T10:32:46.396Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "page-feature-1784111566396-13",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {},
+      "createdAt": "2026-07-15T10:32:46.396Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "element-1784111636260-18",
+      "type": "element",
+      "title": "Sign In",
+      "label": "Sign In",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": 97.78806584362138,
+        "y": 1682.089924125515
+      },
+      "parentId": "page-1784111566396-14",
+      "parentPageId": "page-1784111566396-14",
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "element-feature-1784111636260-17",
+          "title": "Sign In",
+          "description": "element created",
+          "createdAt": "2026-07-15T10:33:56.260Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "element-feature-1784111636260-17",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {
+        "componentType": "Button"
+      },
+      "createdAt": "2026-07-15T10:33:56.260Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    },
+    {
+      "id": "page-1784111600203-16",
+      "type": "page",
+      "title": "Dashboard",
+      "label": "Dashboard",
+      "description": "",
+      "status": "working",
+      "position": {
+        "x": 550.9066358024693,
+        "y": 1614.9418081275728
+      },
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [
+        {
+          "featureId": "page-feature-1784111600203-15",
+          "title": "Dashboard",
+          "description": "page created",
+          "createdAt": "2026-07-15T10:33:20.203Z",
+          "versionNumber": 1,
+          "status": "active"
+        }
+      ],
+      "activeFeatureId": "page-feature-1784111600203-15",
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {},
+      "createdAt": "2026-07-15T10:33:20.203Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge-page-1784107269546-2-element-1784107631776-4",
+      "source": "page-1784107269546-2",
+      "target": "element-1784107631776-4",
+      "type": "structure"
+    },
+    {
+      "id": "edge-element-1784107631776-4-tab-1784107691666-6",
+      "source": "element-1784107631776-4",
+      "target": "tab-1784107691666-6",
+      "type": "structure"
+    },
+    {
+      "id": "edge-element-1784107631776-4-tab-1784107761823-8",
+      "source": "element-1784107631776-4",
+      "target": "tab-1784107761823-8",
+      "type": "structure"
+    },
+    {
+      "id": "edge-element-1784107631776-4-tab-1784107818082-10",
+      "source": "element-1784107631776-4",
+      "target": "tab-1784107818082-10",
+      "type": "structure"
+    },
+    {
+      "id": "edge-element-1784107631776-4-tab-1784107839192-12",
+      "source": "element-1784107631776-4",
+      "target": "tab-1784107839192-12",
+      "type": "structure"
+    },
+    {
+      "id": "edge-element-1784107631776-4-tab-1784107869033-14",
+      "source": "element-1784107631776-4",
+      "target": "tab-1784107869033-14",
+      "type": "structure"
+    },
+    {
+      "id": "edge-page-1784107269546-2-element-1784108514661-16",
+      "source": "page-1784107269546-2",
+      "target": "element-1784108514661-16",
+      "type": "structure"
+    },
+    {
+      "id": "edge-element-1784108514661-16-element-1784110504597-2",
+      "source": "element-1784108514661-16",
+      "target": "element-1784110504597-2",
+      "type": "structure"
+    },
+    {
+      "id": "edge-page-1784107269546-2-element-1784111202871-6",
+      "source": "page-1784107269546-2",
+      "target": "element-1784111202871-6",
+      "type": "structure"
+    },
+    {
+      "id": "edge-element-1784111202871-6-element-1784111255707-8",
+      "source": "element-1784111202871-6",
+      "target": "element-1784111255707-8",
+      "type": "structure"
+    },
+    {
+      "id": "edge-element-1784111202871-6-element-1784111395679-10",
+      "source": "element-1784111202871-6",
+      "target": "element-1784111395679-10",
+      "type": "structure"
+    },
+    {
+      "id": "edge-page-1784107269546-2-element-1784111853303-20",
+      "source": "page-1784107269546-2",
+      "target": "element-1784111853303-20",
+      "type": "structure"
+    },
+    {
+      "id": "edge-element-1784111853303-20-element-1784111874724-22",
+      "source": "element-1784111853303-20",
+      "target": "element-1784111874724-22",
+      "type": "structure"
+    },
+    {
+      "id": "edge-element-1784111853303-20-element-1784111900540-24",
+      "source": "element-1784111853303-20",
+      "target": "element-1784111900540-24",
+      "type": "structure"
+    },
+    {
+      "id": "edge-element-1784111853303-20-element-1784111920778-26",
+      "source": "element-1784111853303-20",
+      "target": "element-1784111920778-26",
+      "type": "structure"
+    },
+    {
+      "id": "edge-element-1784111853303-20-element-1784111934327-28",
+      "source": "element-1784111853303-20",
+      "target": "element-1784111934327-28",
+      "type": "structure"
+    },
+    {
+      "id": "edge-element-1784111853303-20-element-1784111957937-30",
+      "source": "element-1784111853303-20",
+      "target": "element-1784111957937-30",
+      "type": "structure"
+    },
+    {
+      "id": "edge-element-1784111853303-20-element-1784111978472-32",
+      "source": "element-1784111853303-20",
+      "target": "element-1784111978472-32",
+      "type": "structure"
+    },
+    {
+      "id": "edge-page-1784111566396-14-element-1784111636260-18",
+      "source": "page-1784111566396-14",
+      "target": "element-1784111636260-18",
+      "type": "structure"
+    },
+    {
+      "id": "rel-1784111015548-project-1784198521828-h5vhlr",
+      "source": "tab-1784107869033-14",
+      "target": "element-1784108514661-16",
+      "type": "relation"
+    },
+    {
+      "id": "rel-1784111034857-project-1784198521828-h5vhlr",
+      "source": "tab-1784107839192-12",
+      "target": "element-1784108514661-16",
+      "type": "relation"
+    },
+    {
+      "id": "rel-1784111039755-project-1784198521828-h5vhlr",
+      "source": "tab-1784107818082-10",
+      "target": "element-1784108514661-16",
+      "type": "relation"
+    },
+    {
+      "id": "rel-1784111047819-project-1784198521828-h5vhlr",
+      "source": "tab-1784107761823-8",
+      "target": "element-1784108514661-16",
+      "type": "relation"
+    },
+    {
+      "id": "rel-1784111057112-project-1784198521828-h5vhlr",
+      "source": "tab-1784107691666-6",
+      "target": "element-1784108514661-16",
+      "type": "relation"
+    },
+    {
+      "id": "rel-1784111347844-project-1784198521828-h5vhlr",
+      "source": "element-1784111255707-8",
+      "target": "element-1784108514661-16",
+      "type": "relation"
+    },
+    {
+      "id": "rel-1784110827279-project-1784198521828-h5vhlr",
+      "source": "element-1784110504597-2",
+      "target": "page-1784110805457-2",
+      "type": "relation"
+    },
+    {
+      "id": "nav-1784111574740-project-1784198521828-h5vhlr",
+      "source": "element-1784111395679-10",
+      "target": "page-1784111566396-14",
+      "type": "navigation"
+    },
+    {
+      "id": "nav-1784111604634-project-1784198521828-h5vhlr",
+      "source": "element-1784111395679-10",
+      "target": "page-1784111600203-16",
+      "type": "navigation"
+    },
+    {
+      "id": "nav-1784111642172-project-1784198521828-h5vhlr",
+      "source": "element-1784111636260-18",
+      "target": "page-1784111600203-16",
+      "type": "navigation"
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-1784108643683",
+      "nodeId": "element-1784108514661-16",
+      "title": "Filter Needs to be implemented",
+      "parentIssueId": null,
+      "versionNumber": 1,
+      "severity": "yellow",
+      "description": "{/* ── MAIN SEARCH BAR ── */}\n          <motion.div key={category} initial={{ opacity: 0, scale: 0.98 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 0.2 }}\n            className=\"bg-white dark:bg-gray-900 rounded-2xl shadow-2xl border border-white/20 overflow-visible relative\">\n\n            <div className=\"flex flex-col sm:flex-row\">\n              {/* Location input */}\n              <div className=\"flex-1 relative\">\n                <div className=\"flex items-center px-5 py-4 gap-3\">\n                  <MapPin size={20} className={cc.text + \" flex-shrink-0\"} />\n                  <div className=\"flex-1\">\n                    <label className=\"block text-[10px] font-bold text-gray-400 dark:text-gray-500 uppercase tracking-widest mb-0.5\">Location</label>\n                    <input type=\"text\" value={location} onChange={e => { setLocation(e.target.value); setShowSuggestions(true); }}\n                      onFocus={() => setShowSuggestions(true)} onBlur={() => setTimeout(() => setShowSuggestions(false), 180)}\n                      placeholder={category === \"student\" ? \"e.g. UCT, Wits, UP campus area...\" : \"Suburb, city or province...\"}\n                      className=\"w-full outline-none text-gray-900 dark:text-white bg-transparent text-sm font-semibold placeholder-gray-400 dark:placeholder-gray-500\" />\n                  </div>\n                  {location && (\n                    <button onClick={() => setLocation(\"\")} className=\"text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 flex-shrink-0\">\n                      <X size={16} />\n                    </button>\n                  )}\n                </div>\n\n                {/* Suggestions dropdown */}\n                <AnimatePresence>\n                  {showSuggestions && (location.length > 0 ? filteredSuggestions.length > 0 : recentSearches.length > 0) && (\n                    <motion.div initial={{ opacity: 0, y: -8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -8 }}\n                      className=\"absolute left-0 right-0 top-full mt-2 bg-white dark:bg-gray-900 rounded-2xl shadow-2xl border border-gray-100 dark:border-gray-800 overflow-hidden z-50\">\n                      <div className=\"p-2\">\n                        <p className=\"text-[10px] font-bold uppercase tracking-widest text-gray-400 dark:text-gray-500 px-3 py-1.5\">\n                          {location.length > 0 ? \"Suggestions\" : \"Recent Searches\"}\n                        </p>\n                        {(location.length > 0 ? filteredSuggestions : recentSearches).map((s, i) => (\n                          <button key={i} onMouseDown={() => { setLocation(s); setShowSuggestions(false); }}\n                            className=\"w-full flex items-center gap-3 px-3 py-2.5 rounded-xl hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors text-left\">\n                            {location.length > 0\n                              ? <MapPin size={14} className=\"text-blue-500 flex-shrink-0\" />\n                              : <Clock size={14} className=\"text-gray-400 flex-shrink-0\" />}\n                            <span className=\"text-sm text-gray-700 dark:text-gray-300 font-medium\">{s}</span>\n                          </button>\n                        ))}\n                      </div>\n                    </motion.div>\n                  )}\n                </AnimatePresence>\n              </div>\n\n              {/* Divider */}\n              <div className=\"hidden sm:block w-px bg-gray-100 dark:bg-gray-800 my-3\" />\n\n              {/* Property type selector */}\n              <div className=\"flex items-center px-5 py-4 gap-3 border-t sm:border-t-0 border-gray-100 dark:border-gray-800\">\n                <Building2 size={18} className=\"text-gray-400 dark:text-gray-500 flex-shrink-0\" />\n                <div>\n                  <label className=\"block text-[10px] font-bold text-gray-400 dark:text-gray-500 uppercase tracking-widest mb-0.5\">Type</label>\n                  <select value={propType} onChange={e => setPropType(e.target.value)}\n                    className=\"outline-none text-gray-900 dark:text-white bg-transparent text-sm font-semibold cursor-pointer pr-4\">\n                    {PROPERTY_TYPES[category].map(t => <option key={t}>{t}</option>)}\n                  </select>\n                </div>\n              </div>\n\n              {/* Price */}\n              <div className=\"hidden md:flex items-center px-5 py-4 gap-3 border-t sm:border-t-0 border-l border-gray-100 dark:border-gray-800\">\n                <DollarSign size={18} className=\"text-gray-400 dark:text-gray-500 flex-shrink-0\" />\n                <div>\n                  <label className=\"block text-[10px] font-bold text-gray-400 dark:text-gray-500 uppercase tracking-widest mb-0.5\">Price</label>\n                  <select value={pricePreset} onChange={e => setPricePreset(e.target.value)}\n                    className=\"outline-none text-gray-900 dark:text-white bg-transparent text-sm font-semibold cursor-pointer pr-4\">\n                    <option value=\"\">Any price</option>\n                    {PRICE_RANGES[category].map(p => <option key={p.label} value={p.label}>{p.label}</option>)}\n                  </select>\n                </div>\n              </div>\n\n              {/* Beds (sale/rent only) */}\n              {(category === \"sale\" || category === \"rent\") && (\n                <div className=\"hidden lg:flex items-center px-5 py-4 gap-3 border-l border-gray-100 dark:border-gray-800\">\n                  <Bed size={18} className=\"text-gray-400 dark:text-gray-500 flex-shrink-0\" />\n                  <div>\n                    <label className=\"block text-[10px] font-bold text-gray-400 dark:text-gray-500 uppercase tracking-widest mb-0.5\">Beds</label>\n                    <select value={beds} onChange={e => setBeds(e.target.value)}\n                      className=\"outline-none text-gray-900 dark:text-white bg-transparent text-sm font-semibold cursor-pointer pr-4\">\n                      {[\"any\",\"1+\",\"2+\",\"3+\",\"4+\",\"5+\"].map(b => <option key={b} value={b}>{b === \"any\" ? \"Any\" : b}</option>)}\n                    </select>\n                  </div>\n                </div>\n              )}\n\n              {/* Search + Filter buttons */}\n              <div className=\"flex border-t sm:border-t-0 sm:border-l border-gray-100 dark:border-gray-800\">\n                <button onClick={() => setShowAdvanced(!showAdvanced)}\n                  className={`flex items-center gap-2 px-4 py-4 text-sm font-semibold transition-all relative ${\n                    showAdvanced || activeFilterCount > 0\n                      ? \"text-blue-600 dark:text-blue-400 bg-blue-50 dark:bg-blue-900/20\"\n                      : \"text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200\"\n                  }`}>\n                  <SlidersHorizontal size={18} />\n                  <span className=\"hidden sm:inline\">Filters</span>\n                  {activeFilterCount > 0 && (\n                    <span className=\"absolute top-2 right-2 w-4 h-4 bg-blue-600 text-white text-[10px] font-black rounded-full flex items-center justify-center\">{activeFilterCount}</span>\n                  )}\n                </button>\n                <button onClick={handleSearch}\n                  className={`flex items-center justify-center gap-2 px-6 py-4 bg-gradient-to-r ${cc.btn} text-white font-bold rounded-r-2xl hover:shadow-xl transition-all text-sm min-w-[100px]`}>\n                  <Search size={18} /> Search\n                </button>\n              </div>\n            </div>\n\n            {/* ── ADVANCED FILTERS PANEL ── */}\n            <AnimatePresence>\n              {showAdvanced && (\n                <motion.div initial={{ opacity: 0, height: 0 }} animate={{ opacity: 1, height: \"auto\" }} exit={{ opacity: 0, height: 0 }}\n                  className=\"border-t border-gray-100 dark:border-gray-800 overflow-hidden\">\n                  <div className=\"p-5 space-y-5\">\n\n                    {/* Price range inputs */}\n                    <div className=\"grid grid-cols-2 sm:grid-cols-4 gap-3\">\n                      <div>\n                        <label className=\"block text-[10px] font-bold text-gray-500 dark:text-gray-400 uppercase tracking-widest mb-2\">Min Price</label>\n                        <input type=\"text\" value={minPrice} onChange={e => setMinPrice(e.target.value)} placeholder=\"e.g. 2000000\"\n                          className=\"w-full px-3 py-2.5 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl text-sm text-gray-900 dark:text-white focus:border-blue-500 dark:focus:border-blue-400 focus:outline-none\" />\n                      </div>\n                      <div>\n                        <label className=\"block text-[10px] font-bold text-gray-500 dark:text-gray-400 uppercase tracking-widest mb-2\">Max Price</label>\n                        <input type=\"text\" value={maxPrice} onChange={e => setMaxPrice(e.target.value)} placeholder=\"e.g. 5000000\"\n                          className=\"w-full px-3 py-2.5 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-xl text-sm text-gray-900 dark:text-white focus:border-blue-500 dark:focus:border-blue-400 focus:outline-none\" />\n                      </div>\n                      <div>\n                        <label className=\"block text-[10px] font-bold text-gray-500 dark:text-gray-400 uppercase tracking-widest mb-2\">Bathrooms</label>\n                        <select value={baths} onChange={e => setBaths(e.target.value)} className={SELECT}>\n                          {[\"any\",\"1+\",\"2+\",\"3+\",\"4+\"].map(b => <option key={b} value={b}>{b === \"any\" ? \"Any\" : b}</option>)}\n                        </select>\n                      </div>\n                      <div>\n                        <label className=\"block text-[10px] font-bold text-gray-500 dark:text-gray-400 uppercase tracking-widest mb-2\">Parking</label>\n                        <select className={SELECT}>\n                          {[\"Any\",\"1+\",\"2+\",\"3+\"].map(p => <option key={p}>{p}</option>)}\n                        </select>\n                      </div>\n                    </div>\n\n                    {/* Quick price chips */}\n                    <div>\n                      <p className=\"text-[10px] font-bold text-gray-500 dark:text-gray-400 uppercase tracking-widest mb-2\">Quick Price</p>\n                      <div className=\"flex flex-wrap gap-2\">\n                        {PRICE_RANGES[category].map(p => (\n                          <button key={p.label} onClick={() => { setPricePreset(pricePreset === p.label ? \"\" : p.label); setMinPrice(p.min); setMaxPrice(p.max); }}\n                            className={`${CHIP_BASE} ${pricePreset === p.label ? CHIP_ON : CHIP_OFF}`}>\n                            {pricePreset === p.label && <Check size={11} strokeWidth={3} />}\n                            {p.label}\n                          </button>\n                        ))}\n                      </div>\n                    </div>\n\n                    {/* Features */}\n                    <div>\n                      <p className=\"text-[10px] font-bold text-gray-500 dark:text-gray-400 uppercase tracking-widest mb-2\">Must-Have Features</p>\n                      <div className=\"flex flex-wrap gap-2\">\n                        {FEATURE_OPTIONS.map(f => (\n                          <button key={f} onClick={() => toggleFeature(f)}\n                            className={`${CHIP_BASE} ${features.includes(f) ? CHIP_ON : CHIP_OFF}`}>\n                            {features.includes(f) && <Check size={11} strokeWidth={3} />}\n                            {f}\n                          </button>\n                        ))}\n                      </div>\n                    </div>\n\n                    {/* Actions */}\n                    <div className=\"flex items-center justify-between pt-3 border-t border-gray-100 dark:border-gray-800\">\n                      <button onClick={clearAll} className=\"flex items-center gap-1.5 text-sm text-red-500 font-bold hover:text-red-700 transition-colors\">\n                        <RefreshCw size={14} /> Clear all filters\n                      </button>\n                      <button onClick={handleSearch}\n                        className={`flex items-center gap-2 px-6 py-2.5 bg-gradient-to-r ${cc.btn} text-white font-bold rounded-xl hover:shadow-lg transition-all text-sm`}>\n                        <Search size={15} /> Apply & Search\n                      </button>\n                    </div>\n                  </div>\n                </motion.div>\n              )}\n            </AnimatePresence>\n          </motion.div>\n\n          {/* Active filter chips */}\n          {activeFilterCount > 0 && (\n            <div className=\"flex flex-wrap gap-2 mt-4 justify-center\">\n              {propType !== \"All Types\" && <span className={`${CHIP_BASE} bg-white/15 backdrop-blur-sm text-white border-white/25`}><Building2 size={11} />{propType}<button onClick={() => setPropType(\"All Types\")} className=\"ml-1 hover:text-red-300\"><X size={11} /></button></span>}\n              {pricePreset && <span className={`${CHIP_BASE} bg-white/15 backdrop-blur-sm text-white border-white/25`}><DollarSign size={11} />{pricePreset}<button onClick={() => { setPricePreset(\"\"); setMinPrice(\"\"); setMaxPrice(\"\"); }} className=\"ml-1 hover:text-red-300\"><X size={11} /></button></span>}\n              {beds !== \"any\" && <span className={`${CHIP_BASE} bg-white/15 backdrop-blur-sm text-white border-white/25`}><Bed size={11} />{beds} beds<button onClick={() => setBeds(\"any\")} className=\"ml-1 hover:text-red-300\"><X size={11} /></button></span>}\n              {features.map(f => <span key={f} className={`${CHIP_BASE} bg-white/15 backdrop-blur-sm text-white border-white/25`}><Check size={11} strokeWidth={3} />{f}<button onClick={() => toggleFeature(f)} className=\"ml-1 hover:text-red-300\"><X size={11} /></button></span>)}\n            </div>\n          )}\n        </div>\n      </div>\n\n      {/* ══ RESULTS / DISCOVERY AREA ══ */}\n      <div className=\"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8\">\n\n        {!hasSearched ? (\n          /* ── DISCOVERY MODE ── */\n          <div className=\"space-y-12\">",
+      "stepsToReproduce": "Change take exactly the filter in SmartPropertySearch.tsx and put on this HomeScreen Only",
+      "mediaUrls": [],
+      "createdAt": "2026-07-15T09:44:03.683Z",
+      "resolvedAt": null,
+      "status": "open",
+      "history": [],
+      "createdBy": "user-1783078154280-x6si5i",
+      "updatedBy": "user-1783078154280-x6si5i"
+    },
+    {
+      "id": "issue-1784108870268",
+      "nodeId": "element-1784108514661-16",
+      "title": "The Positioning of this Filter",
+      "parentIssueId": null,
+      "versionNumber": 1,
+      "severity": "red",
+      "description": "Make sure the filter is below the Hero Section",
+      "stepsToReproduce": "Create the Hero Section to be Above the Search Filter",
+      "mediaUrls": [],
+      "createdAt": "2026-07-15T09:47:50.268Z",
+      "resolvedAt": null,
+      "status": "open",
+      "history": [],
+      "createdBy": "user-1783078154280-x6si5i",
+      "updatedBy": "user-1783078154280-x6si5i"
+    },
+    {
+      "id": "issue-1784111760308",
+      "nodeId": "element-1784111202871-6",
+      "title": "Footer Positioning",
+      "parentIssueId": null,
+      "versionNumber": 1,
+      "severity": "red",
+      "description": "Put this at the end of the UI",
+      "stepsToReproduce": "Place alll the components before this one",
+      "mediaUrls": [],
+      "createdAt": "2026-07-15T10:36:00.308Z",
+      "resolvedAt": null,
+      "status": "open",
+      "history": [],
+      "createdBy": "user-1783078154280-x6si5i",
+      "updatedBy": "user-1783078154280-x6si5i"
+    },
+    {
+      "id": "issue-1784112092223",
+      "nodeId": "element-1784111853303-20",
+      "title": "Positioning and Structure",
+      "parentIssueId": null,
+      "versionNumber": 1,
+      "severity": "yellow",
+      "description": "Make sure that the card is below the search-filter card and the buttons are arrangedin 3 columns 2 rows",
+      "mediaUrls": [],
+      "createdAt": "2026-07-15T10:41:32.223Z",
+      "resolvedAt": null,
+      "status": "open",
+      "history": [],
+      "createdBy": "user-1783078154280-x6si5i",
+      "updatedBy": "user-1783078154280-x6si5i"
+    }
+  ],
+  "issueHistory": [
+    {
+      "id": "hist-1784108643683",
+      "issueId": "issue-1784108643683",
+      "nodeId": "element-1784108514661-16",
+      "message": "Issue created: \"Filter Needs to be implemented\"",
+      "status": "attempt",
+      "createdAt": "2026-07-15T09:44:03.683Z",
+      "createdBy": "user-1783078154280-x6si5i",
+      "updatedBy": "user-1783078154280-x6si5i"
+    },
+    {
+      "id": "hist-1784108870268",
+      "issueId": "issue-1784108870268",
+      "nodeId": "element-1784108514661-16",
+      "message": "Issue created: \"The Positioning of this Filter\"",
+      "status": "attempt",
+      "createdAt": "2026-07-15T09:47:50.268Z",
+      "createdBy": "user-1783078154280-x6si5i",
+      "updatedBy": "user-1783078154280-x6si5i"
+    },
+    {
+      "id": "hist-1784111760308",
+      "issueId": "issue-1784111760308",
+      "nodeId": "element-1784111202871-6",
+      "message": "Issue created: \"Footer Positioning\"",
+      "status": "attempt",
+      "createdAt": "2026-07-15T10:36:00.308Z",
+      "createdBy": "user-1783078154280-x6si5i",
+      "updatedBy": "user-1783078154280-x6si5i"
+    },
+    {
+      "id": "hist-1784112092223",
+      "issueId": "issue-1784112092223",
+      "nodeId": "element-1784111853303-20",
+      "message": "Issue created: \"Positioning and Structure\"",
+      "status": "attempt",
+      "createdAt": "2026-07-15T10:41:32.223Z",
+      "createdBy": "user-1783078154280-x6si5i",
+      "updatedBy": "user-1783078154280-x6si5i"
+    }
+  ],
+  "updatedAt": "2026-07-16T10:42:27.673Z"
+}
