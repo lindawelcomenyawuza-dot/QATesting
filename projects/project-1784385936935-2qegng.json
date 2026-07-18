@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "projectId": "project-1784385936935-2qegng",
+  "name": "PropiClient",
+  "nodes": [
+    {
+      "id": "page-root",
+      "type": "page",
+      "title": "Root",
+      "label": "Root",
+      "status": "working",
+      "position": {
+        "x": 200,
+        "y": 0
+      },
+      "childrenIds": [],
+      "mediaUrls": [],
+      "issueIds": [],
+      "featureHistory": [],
+      "activeFeatureId": null,
+      "issueHistory": [],
+      "activeIssues": [],
+      "resolvedIssues": [],
+      "metadata": {},
+      "createdAt": "2026-07-18T14:54:58.086Z",
+      "createdByUserId": "user-1783078154280-x6si5i",
+      "createdByName": "lindani",
+      "createdByEmail": "lindanileontkp@gmail.com"
+    }
+  ],
+  "edges": [],
+  "issues": [],
+  "issueHistory": [],
+  "updatedAt": "2026-07-18T14:54:59.496Z"
+}
