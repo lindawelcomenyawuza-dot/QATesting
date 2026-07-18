@@ -4,224 +4,32 @@
   "name": "Test",
   "nodes": [
     {
-      "id": "page-1784387433204-12",
+      "id": "page-root",
       "type": "page",
-      "title": "Login",
-      "label": "Login",
-      "description": "",
-      "childrenIds": [
-        "tab-1784387433204-14",
-        "tab-1784387433204-18"
-      ],
+      "title": "Root",
+      "label": "Root",
       "status": "working",
       "position": {
-        "x": 100,
-        "y": 100
+        "x": 200,
+        "y": 0
       },
-      "mediaUrls": [],
-      "issueIds": [],
-      "featureHistory": [
-        {
-          "featureId": "page-feature-1784387433204-11",
-          "title": "Login",
-          "description": "page created",
-          "createdAt": "2026-07-18T15:10:33.204Z",
-          "versionNumber": 1,
-          "status": "active"
-        }
-      ],
-      "activeFeatureId": "page-feature-1784387433204-11",
-      "issueHistory": [],
-      "activeIssues": [],
-      "resolvedIssues": [],
-      "metadata": {},
-      "createdAt": "2026-07-18T15:10:33.204Z",
-      "createdByUserId": "user-1783078154280-x6si5i",
-      "createdByName": "lindani",
-      "createdByEmail": "lindanileontkp@gmail.com"
-    },
-    {
-      "id": "tab-1784387433204-14",
-      "type": "tab",
-      "title": "Sign In",
-      "label": "Sign In",
-      "description": "",
-      "parentId": "page-1784387433204-12",
-      "parentPageId": "page-1784387433204-12",
-      "childrenIds": [
-        "element-1784387433204-16"
-      ],
-      "status": "working",
-      "position": {
-        "x": 400,
-        "y": 100
-      },
-      "mediaUrls": [],
-      "issueIds": [],
-      "featureHistory": [
-        {
-          "featureId": "tab-feature-1784387433204-13",
-          "title": "Sign In",
-          "description": "tab created",
-          "createdAt": "2026-07-18T15:10:33.204Z",
-          "versionNumber": 1,
-          "status": "active"
-        }
-      ],
-      "activeFeatureId": "tab-feature-1784387433204-13",
-      "issueHistory": [],
-      "activeIssues": [],
-      "resolvedIssues": [],
-      "metadata": {},
-      "createdAt": "2026-07-18T15:10:33.204Z",
-      "createdByUserId": "user-1783078154280-x6si5i",
-      "createdByName": "lindani",
-      "createdByEmail": "lindanileontkp@gmail.com"
-    },
-    {
-      "id": "element-1784387433204-16",
-      "type": "element",
-      "title": "Sign In",
-      "label": "Sign In",
-      "description": "",
-      "parentId": "tab-1784387433204-14",
-      "parentPageId": "page-1784387433204-12",
       "childrenIds": [],
-      "status": "working",
-      "position": {
-        "x": 700,
-        "y": 100
-      },
       "mediaUrls": [],
       "issueIds": [],
-      "featureHistory": [
-        {
-          "featureId": "element-feature-1784387433204-15",
-          "title": "Sign In",
-          "description": "element created",
-          "createdAt": "2026-07-18T15:10:33.204Z",
-          "versionNumber": 1,
-          "status": "active"
-        }
-      ],
-      "activeFeatureId": "element-feature-1784387433204-15",
-      "issueHistory": [],
-      "activeIssues": [],
-      "resolvedIssues": [],
-      "metadata": {
-        "componentType": "BTN",
-        "framework": "react-nextjs"
-      },
-      "createdAt": "2026-07-18T15:10:33.204Z",
-      "createdByUserId": "user-1783078154280-x6si5i",
-      "createdByName": "lindani",
-      "createdByEmail": "lindanileontkp@gmail.com"
-    },
-    {
-      "id": "tab-1784387433204-18",
-      "type": "tab",
-      "title": "Sign Up",
-      "label": "Sign Up",
-      "description": "",
-      "parentId": "page-1784387433204-12",
-      "parentPageId": "page-1784387433204-12",
-      "childrenIds": [
-        "element-1784387433204-20"
-      ],
-      "status": "working",
-      "position": {
-        "x": 400,
-        "y": 250
-      },
-      "mediaUrls": [],
-      "issueIds": [],
-      "featureHistory": [
-        {
-          "featureId": "tab-feature-1784387433204-17",
-          "title": "Sign Up",
-          "description": "tab created",
-          "createdAt": "2026-07-18T15:10:33.204Z",
-          "versionNumber": 1,
-          "status": "active"
-        }
-      ],
-      "activeFeatureId": "tab-feature-1784387433204-17",
+      "featureHistory": [],
+      "activeFeatureId": null,
       "issueHistory": [],
       "activeIssues": [],
       "resolvedIssues": [],
       "metadata": {},
-      "createdAt": "2026-07-18T15:10:33.204Z",
-      "createdByUserId": "user-1783078154280-x6si5i",
-      "createdByName": "lindani",
-      "createdByEmail": "lindanileontkp@gmail.com"
-    },
-    {
-      "id": "element-1784387433204-20",
-      "type": "element",
-      "title": "Create Account",
-      "label": "Create Account",
-      "description": "",
-      "parentId": "tab-1784387433204-18",
-      "parentPageId": "page-1784387433204-12",
-      "childrenIds": [],
-      "status": "working",
-      "position": {
-        "x": 700,
-        "y": 250
-      },
-      "mediaUrls": [],
-      "issueIds": [],
-      "featureHistory": [
-        {
-          "featureId": "element-feature-1784387433204-19",
-          "title": "Create Account",
-          "description": "element created",
-          "createdAt": "2026-07-18T15:10:33.204Z",
-          "versionNumber": 1,
-          "status": "active"
-        }
-      ],
-      "activeFeatureId": "element-feature-1784387433204-19",
-      "issueHistory": [],
-      "activeIssues": [],
-      "resolvedIssues": [],
-      "metadata": {
-        "componentType": "BTN",
-        "framework": "react-nextjs"
-      },
-      "createdAt": "2026-07-18T15:10:33.204Z",
+      "createdAt": "2026-07-18T15:11:44.923Z",
       "createdByUserId": "user-1783078154280-x6si5i",
       "createdByName": "lindani",
       "createdByEmail": "lindanileontkp@gmail.com"
     }
   ],
-  "edges": [
-    {
-      "id": "edge-page-1784387433204-12-tab-1784387433204-14",
-      "source": "page-1784387433204-12",
-      "target": "tab-1784387433204-14",
-      "type": "structure"
-    },
-    {
-      "id": "edge-tab-1784387433204-14-element-1784387433204-16",
-      "source": "tab-1784387433204-14",
-      "target": "element-1784387433204-16",
-      "type": "structure"
-    },
-    {
-      "id": "edge-page-1784387433204-12-tab-1784387433204-18",
-      "source": "page-1784387433204-12",
-      "target": "tab-1784387433204-18",
-      "type": "structure"
-    },
-    {
-      "id": "edge-tab-1784387433204-18-element-1784387433204-20",
-      "source": "tab-1784387433204-18",
-      "target": "element-1784387433204-20",
-      "type": "structure"
-    }
-  ],
+  "edges": [],
   "issues": [],
   "issueHistory": [],
-  "updatedAt": "2026-07-18T15:10:34.613Z"
+  "updatedAt": "2026-07-18T15:11:47.073Z"
 }
